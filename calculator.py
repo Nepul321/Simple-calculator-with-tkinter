@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.iconbitmap('c:/users/nepul kahandawa/onedrive/pictures/favicon.ico')
+root.iconbitmap('favicon.ico')
 
 root.title("Simple Calculator")
 root.resizable(0, 0)
