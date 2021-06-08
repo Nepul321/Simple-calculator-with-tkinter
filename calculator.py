@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 root.iconbitmap('favicon.ico')
 
-root.title("Simple Calculator")
+root.title("Calculator")
 root.resizable(0, 0)
 
 e = Entry(root, width=35, borderwidth=5, )
